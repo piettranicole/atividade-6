@@ -9,8 +9,13 @@ body {
     padding: 20px;
     
 }
-.blue {
+.yo {
     background-color: yellow;
     padding: 20px;
+    margin: 10px;
     
+}
+
+.flex{
+ display: flex;
 }
